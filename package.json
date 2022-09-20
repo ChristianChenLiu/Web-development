@@ -1,0 +1,22 @@
+{
+  "name": "web-development",
+  "version": "1.0.0",
+  "description": "Learning web development",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianChenLiu/Web-development.git"
+  },
+  "author": "Christian Chen Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianChenLiu/Web-development/issues"
+  },
+  "homepage": "https://github.com/ChristianChenLiu/Web-development#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
